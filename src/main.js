@@ -1,5 +1,5 @@
 'use strict';
-const VERSION = '1.0.0';
+const VERSION = '1.1.0';
 const $ = s => document.querySelector(s);
 const $$ = s => [...document.querySelectorAll(s)];
 const cv = $('#cv'), ctx = cv.getContext('2d');

@@ -71,3 +71,4 @@ kbd{display:inline-block;min-width:20px;padding:1px 5px;border:1px solid var(--l
 @media (max-width:420px){.panel{padding:18px 14px}.stats b{font-size:16px}}
 
 @media (max-width:440px){.verdict{font-size:14px;letter-spacing:.1em}}
+.install-tip{color:var(--muted);font-size:13px;line-height:1.45;margin:12px 0 0}
